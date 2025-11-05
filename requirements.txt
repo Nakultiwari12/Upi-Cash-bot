@@ -1,0 +1,6 @@
+# === UPI Cash Bot dependencies ===
+python-telegram-bot==20.5
+# SQLite is built into Python; no need to install separately
+# Optional extras if you ever add features later:
+# requests==2.32.3
+# aiohttp==3.9.5
